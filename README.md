@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aayushirathore/aayushirathore/master/aayushi.gif" width="400"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=440&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;Always+learning+something+new" />
 </div>
 
 👋 Hi, I'm Sneha J B, a Software Developer based in Bangalore.
