@@ -1,34 +1,20 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/snehajb1527">Sneha</a></h1>
+<h3 align="center">A passionate Frontend Developer 🚀</h3>
+<br>
 
-# Hi 👋, I'm [Sneha](https://github.com/snehajb1527)
+<img src="https://imjustcreative.com/wp-content/uploads/2017/07/florian-8-1.gif">
 
-### A passionate Frontend Developer 🚀
+I'm Sneha J B, a Frontend Developer based in Bangalore, working with React.js, Next.js, and modern JavaScript/TypeScript.
 
-</div>
+- 📫 How to reach me **ssnehajb@gmail.com**
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=440&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;Always+learning+something+new" />
-</div>
-
-👋 Hi, I'm Sneha J B, a Software Developer based in Bangalore.
-
-- 💻 Frontend Developer working with **React.js**, **Next.js**, and modern JavaScript/TypeScript
-- 🔭 Currently building production-ready React & Next.js applications
-- 🌱 Sharpening skills in Redux Toolkit, TypeScript, and Tailwind CSS
-- 📫 Reach me at: ssnehajb@gmail.com
-
-### Languages and Skills:
-
-<p align="left">
+<h3 align="center">Languages and Skills:</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,git,figma,vscode" />
   </a>
 </p>
 
-### GitHub Stats:
+<br>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=snehajb1527&theme=dark&hide_border=true)
-
-</div>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=snehajb1527" alt="snehajb1527" /></p>
