@@ -1,9 +1,13 @@
 <div align="center">
 
-# Hi 👋, I'm Sneha
+# Hi 👋, I'm [Sneha](https://github.com/snehajb1527)
 
 ### A passionate Frontend Developer 🚀
 
+</div>
+
+<div align="center">
+  <img src="https://your-image-or-gif-link-here" width="400"/>
 </div>
 
 👋 Hi, I'm Sneha J B, a Software Developer based in Bangalore.
@@ -21,13 +25,10 @@
   </a>
 </p>
 
-
-
 ### GitHub Stats:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehajb1527&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snehajb1527&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=snehajb1527&theme=dark&hide_border=true)
 
 </div>
