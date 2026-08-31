@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://your-image-or-gif-link-here" width="400"/>
+  <img src="https://raw.githubusercontent.com/aayushirathore/aayushirathore/master/aayushi.gif" width="400"/>
 </div>
 
 👋 Hi, I'm Sneha J B, a Software Developer based in Bangalore.
