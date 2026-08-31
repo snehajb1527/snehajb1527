@@ -11,8 +11,7 @@
 - 💻 Frontend Developer working with **React.js**, **Next.js**, and modern JavaScript/TypeScript
 - 🔭 Currently building production-ready React & Next.js applications
 - 🌱 Sharpening skills in Redux Toolkit, TypeScript, and Tailwind CSS
-- 🎓 B.E. in Computer Science, Kalpataru Institute of Technology (VTU)
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: ssnehajb@gmail.com
 
 ### Languages and Skills:
 
@@ -22,10 +21,7 @@
   </a>
 </p>
 
-### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](your-instagram-url)
 
 ### GitHub Stats:
 
